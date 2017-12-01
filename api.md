@@ -12,3 +12,4 @@ Main part:
 11. usb
 12. sensors
 13. graphics
+14. SD card
