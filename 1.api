@@ -1,1 +1,11 @@
+allCall()
+allMsg()
 
+newMsgListener 
+newCallListener
+
+saveCall(id, "1") // file 1.mp3
+saveMsg(id, "1") // file 1.json
+
+runMsg() // open sms
+runCall() // open call number
